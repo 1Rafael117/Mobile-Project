@@ -1,5 +1,7 @@
 Proyecto para dispositivos moviles
 
-nombres de los integrantes 
+Nombres de los integrantes 
 
-Rafael
+Sofía Morales Rodríguez
+Peláez Olvera Ana Karen
+Perez Amaya Rafael
